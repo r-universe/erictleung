@@ -2,5 +2,11 @@
   {
     "package": "pixarfilms",
     "oncran": true
+  },
+  {
+    "package": "hp"
+  },
+  {
+    "package": "unnestIfElse"
   }
 ]

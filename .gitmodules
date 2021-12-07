@@ -1,10 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/erictleung/universe
 	shallow = true
 	branch = HEAD
 [submodule "pixarfilms"]
 	path = pixarfilms
 	url = https://github.com/erictleung/pixarfilms
+	shallow = true
+	registered = true
+[submodule "hp"]
+	path = hp
+	url = https://github.com/erictleung/hp
+	shallow = true
+	registered = true
+[submodule "unnestIfElse"]
+	path = unnestIfElse
+	url = https://github.com/erictleung/unnestIfElse
 	shallow = true
 	registered = true
