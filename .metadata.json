@@ -1,7 +1,7 @@
 [
   {
     "package": "pixarfilms",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "hp"
