@@ -7,6 +7,9 @@
     "package": "hp"
   },
   {
+    "package": "jwst"
+  },
+  {
     "package": "unnestIfElse"
   }
 ]

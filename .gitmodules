@@ -13,6 +13,11 @@
 	url = https://github.com/erictleung/hp
 	shallow = true
 	registered = true
+[submodule "jwst"]
+	path = jwst
+	url = https://github.com/erictleung/jwst
+	shallow = true
+	registered = true
 [submodule "unnestIfElse"]
 	path = unnestIfElse
 	url = https://github.com/erictleung/unnestIfElse
