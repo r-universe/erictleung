@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/erictleung/universe
+	url = https://github.com/erictleung/erictleung.r-universe.dev
 	branch = HEAD
 [submodule "hp"]
 	path = hp
@@ -11,6 +11,9 @@
 [submodule "pixarfilms"]
 	path = pixarfilms
 	url = https://github.com/erictleung/pixarfilms
+[submodule "pyblack"]
+	path = pyblack
+	url = https://github.com/erictleung/pyblack
 [submodule "unnestIfElse"]
 	path = unnestIfElse
 	url = https://github.com/erictleung/unnestIfElse
